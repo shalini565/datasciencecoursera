@@ -15,3 +15,4 @@ outcome[, lapply(.SD
         , .SDcols = (11)]
 
 
+Plot 1 https://github.com/shalini565/datasciencecoursera/blob/master/1.png
